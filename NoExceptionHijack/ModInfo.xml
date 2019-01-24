@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="NoExceptionHijack" />
+		<Description value="Prevents exception errors from forcing the console to pop up and take control away making the game unplayable" />
+		<Author value="TormentedEmu" />
+		<Version value="1.1" />
+		<Website value="" />
+	</ModInfo>
+</xml>
