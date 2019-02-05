@@ -1,7 +1,7 @@
 <mod>
 	<info>
 		<author>TormentedEmu</author>
-		<name>NoExceptionHijack</name>
+		<name>EmuNoExceptionHijack</name>
 		<description>Prevents exception errors from forcing the console to pop up and take control away making the game unplayable</description>
 		<mod_version>1.1</mod_version>
 		<game_version>17</game_version>
