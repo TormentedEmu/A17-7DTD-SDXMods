@@ -1,0 +1,12 @@
+<mod>
+	<info>
+		<author>TormentedEmu</author>
+		<name>EmuCreatePlayerFix</name>
+		<description>A patchscript mod to fix a Null Reference Exception that occurs when logging in to the game during the Create Player stage.</description>
+		<mod_version>1.0</mod_version>
+		<game_version>17.1(b9)</game_version>
+		<launcher_version>0.7.4 Test Version I don't know which(hopefully I have the latest)</launcher_version>
+	</info>
+	<config_mods>
+	</config_mods>
+</mod>
