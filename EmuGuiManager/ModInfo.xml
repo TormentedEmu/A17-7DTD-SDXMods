@@ -2,9 +2,9 @@
 <xml>
 	<ModInfo>
 		<Name value="EmuGuiManager" />
-		<Description value="A patch mod to enable display font changes." />
+		<Description value="Changes the Activation Label and Tooltip font to AgencyB to allow Japanese Kanji to be displayed." />
 		<Author value="TormentedEmu" />
 		<Version value="1.0" />
-		<Website value="" />
+		<Website value="https://github.com/TormentedEmu/A17-7DTD-SDXMods" />
 	</ModInfo>
 </xml>

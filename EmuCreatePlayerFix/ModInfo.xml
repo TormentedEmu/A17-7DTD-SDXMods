@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="EmuCreatePlayerFix" />
+		<Description value="A patchscript mod to fix a Null Reference Exception that occurs when logging in to the game during the Create Player stage." />
+		<Author value="TormentedEmu" />
+		<Version value="1.0" />
+		<Website value="https://github.com/TormentedEmu/A17-7DTD-SDXMods" />
+	</ModInfo>
+</xml>
